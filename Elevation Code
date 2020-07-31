@@ -5,7 +5,7 @@ function initMap() {
   // The following path marks a path from Downtown West Palm to Clematis Street
   var path = [
      {lat: 26.7104, lng: 80.0549},   // Downtown West Palm
-     {lat: 26.7138, lng: 80.0559,   // Clematis Street
+     {lat: 26.7138, lng: 80.0559},   // Clematis Street
 
   var map = new google.maps.Map(document.getElementById('map'), {
     zoom: 8,
